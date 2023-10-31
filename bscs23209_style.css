@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.p1
+{
+	text-align: center;
+}
+.p2
+{
+	display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+ 
+	color: black;	
+}
+
+.p3
+{
+	display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+  
+	color: black;
+	
+}
+.img1 {
+  display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+ 
+	border: 5px #000000;
+}
+
+.img2 {
+  display: block; 
+  margin: 0 auto; 
+  text-align: right; 
+  
+
+}
+.div1 {
+	width: 1320px;
+   height: 20px;
+   background-color: #00FFB3; 
+   margin: 10px;
+   padding: 5px;   
+	color: black;
+  
+}
+
+.image-container{
+	text-align: center;
+}
